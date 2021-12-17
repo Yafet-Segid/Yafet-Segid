@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 
 
 
-
+Connect with me :
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[LINKEDIN].svg" />
 
 - :heart: I’m currently working on ...
 - 🌱 I’m currently learning Nodejs...
@@ -17,3 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Languages and Framework:
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
