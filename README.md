@@ -1,4 +1,3 @@
-![output-onlinepngtools](https://user-images.githubusercontent.com/83928646/146625323-002cbf20-210e-4802-a586-e72140cf78f4.png)
 
 
 
