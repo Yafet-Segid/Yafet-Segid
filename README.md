@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="image/webDev.png" height="175px"/></a>![webDev](https://user-images.githubusercontent.com/83928646/146623230-1f51f963-3b01-4a70-8435-19a386b1e763.png)
+![webDev](https://user-images.githubusercontent.com/83928646/146623250-4a3a2c42-b3f3-4ea7-94e0-0310b95ef6a4.png)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yafet</h1>
