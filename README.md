@@ -1,6 +1,6 @@
 
 
-<a href="#"><img width="50%"  align="center" src="https://user-images.githubusercontent.com/83928646/146623504-d9e72e0b-9a91-4937-a0ce-895e884a93fd.png"   ></a>
+<a href="#"><img width="50%"  margin-left="center" src="https://user-images.githubusercontent.com/83928646/146623504-d9e72e0b-9a91-4937-a0ce-895e884a93fd.png"   ></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yafet</h1>
@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I listing podcast and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
