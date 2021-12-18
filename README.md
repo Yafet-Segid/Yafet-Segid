@@ -1,6 +1,6 @@
 
 
-<a href="url"><img width="50%" height="auto"   src="https://user-images.githubusercontent.com/83928646/146623504-d9e72e0b-9a91-4937-a0ce-895e884a93fd.png" height="7px" ></a>
+<a href="url"><img width="50%" height="auto"   src="https://user-images.githubusercontent.com/83928646/146623504-d9e72e0b-9a91-4937-a0ce-895e884a93fd.png"  ></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yafet</h1>
