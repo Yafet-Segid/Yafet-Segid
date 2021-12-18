@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)**
 
-- ⚡ Fun fact **I listing podcast and go to the GYM very often.**
+- ⚡ Fun fact ** Hang out with friends  and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
