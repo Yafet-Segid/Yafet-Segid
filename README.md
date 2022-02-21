@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)**
 
-- ⚡ Fun fact ** I love chipotle and go to the GYM very often.**
+- ⚡ Fun fact **  I love Chipotle and the gym!**
 
 ## 🚀 Languages and Tools:
 
