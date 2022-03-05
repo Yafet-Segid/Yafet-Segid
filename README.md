@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yafet</h1>
-<h3 align="center">I'm a passionate Front End Developer.</h3>
+<h3 align="center">I'm a passionate Front end Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
