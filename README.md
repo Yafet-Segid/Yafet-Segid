@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)**
+<!-- - 👨‍💻 Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)** -->
 
 - ⚡ Fun fact : I love Chipotle and the gym!
 
