@@ -34,10 +34,10 @@
     <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss"/> </a> 
-    <a href="https://typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/></a> 
-    <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
-    <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
+<!--     <a href="https://typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/></a>  -->
+<!--     <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>  -->
+<!--     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
+<!--     <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>  -->
        
 <!--          <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="43"/> </a>   -->
 
