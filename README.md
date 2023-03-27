@@ -26,9 +26,12 @@
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
-    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="https://asset.br![lwc](https://user-images.githubusercontent.com/83928646/227820776-c21fbf7a-6110-4d0f-8dab-898e8790a80d.png)
-andfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
-    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
+   
+    ![lwc](https://user-images.githubusercontent.com/83928646/227820905-3d34c953-42cf-4f27-9a66-d4476d8a8156.png)
+
+    
+    
+    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="[https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png](https://user-images.githubusercontent.com/83928646/227820905-3d34c953-42cf-4f27-9a66-d4476d8a8156.png)"/> </a> 
 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
