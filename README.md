@@ -29,7 +29,7 @@
    
     
     
-    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="[https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png](https://user-images.githubusercontent.com/83928646/227820905-3d34c953-42cf-4f27-9a66-d4476d8a8156.png)"/> </a> 
+
 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
