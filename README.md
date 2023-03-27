@@ -24,7 +24,8 @@
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
-    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="https://user-images.githubusercontent.com/83928646/227821403-74dbe92a-a523-4d2c-b469-26572125f6d9.png
+    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px"  src="![web](https://user-images.githubusercontent.com/83928646/227822538-bb6850d2-7548-4a8b-a0e4-3f51c9f59059.png)
+
 "/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
