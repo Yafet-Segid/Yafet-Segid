@@ -23,9 +23,10 @@
 
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
     <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://user-images.githubusercontent.com/83928646/227822538-bb6850d2-7548-4a8b-a0e4-3f51c9f59059.png"/> </a> 
-        <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px; padding-top:100px"  src="https://user-images.githubusercontent.com/83928646/227822844-ffa065b2-b1ad-42ad-9cc3-aebbf159b43d.png"/> </a> 
+    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:60px; padding-top:100px"  src="https://user-images.githubusercontent.com/83928646/227822844-ffa065b2-b1ad-42ad-9cc3-aebbf159b43d.png"/> </a> 
+    <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
+
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -34,6 +35,7 @@
     <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss"/> </a> 
+    
 <!--     <a href="https://typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/></a>  -->
 <!--     <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>  -->
 <!--     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
