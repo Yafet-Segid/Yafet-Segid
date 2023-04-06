@@ -23,7 +23,6 @@
 
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
- 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -32,7 +31,7 @@
     <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss"/> </a> 
-        <a href="https://www.salesforce.com/" target="_blank"> <img style="width:40px"  src="https://user-images.githubusercontent.com/83928646/227822844-ffa065b2-b1ad-42ad-9cc3-aebbf159b43d.png"/> </a>
+     <a href="https://www.salesforce.com/" target="_blank"> <img style="width:40px"  src="https://user-images.githubusercontent.com/83928646/227822844-ffa065b2-b1ad-42ad-9cc3-aebbf159b43d.png"/> </a>
 <!--     <a href="https://www.salesforce.com/" target="_blank"> <img style="width:40px"  src="https://user-images.githubusercontent.com/83928646/227827686-885e37a1-5d83-4cd6-bf2f-a834308abed7.png"/> </a> 
      <a href="https://www.salesforce.com/" target="_blank"> <img style="width:40px"  src="https://user-images.githubusercontent.com/83928646/227827600-f5b733f3-57c5-40e8-8716-c9a9981c404e.png"/> </a>   -->
         <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
