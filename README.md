@@ -8,16 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-
-- 🌱  Microsoft Azure (Virtual Machines/Compute)
+- ☁️ Azure (Virtual Machines/Compute)
 - 👨‍💻 Remote Desktop
-- Internet Information Services (IIS)
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- -  Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)** -->
-
+- 🛜 Internet Information Services (IIS)
 - ⚡ Fun fact : I love Chipotle and the gym!
 - 
 <h2>👨‍💻 Information Technology Projects:</h2>
