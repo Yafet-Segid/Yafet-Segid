@@ -13,7 +13,7 @@
 - 🛜 Internet Information Services (IIS)
 - ⚡ Fun fact : I love Chipotle and the gym!
   
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Yafet-Segid/osticket-prereq)
