@@ -23,7 +23,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-## 🚀 Languages and Tools:
+## 💻 Tools:
 
 
 <p align="left"> 
@@ -33,18 +33,16 @@
      <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/microsoft.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>  
      <a href="https://tailwindcss.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/> </a> 
-  <br/>
+<!--   <br/>
      <a href="https://tailwindcss.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> </a> 
      <a href="https://tailwindcss.com" target="_blank"> <img width="80" height="80" src="https://img.icons8.com/officel/48/dns.png" alt="dns"/> </a> 
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/console.png"/> </a> 
-     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/server.png"/> </a> 
-##
+     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/server.png"/> </a>  -->
    
 ## 🚀 Languages :
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
  <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a>
 
 
