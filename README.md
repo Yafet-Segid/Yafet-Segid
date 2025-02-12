@@ -33,8 +33,8 @@
      <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/microsoft.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>  
      <a href="https://tailwindcss.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/> </a> 
-     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/jira.png"/> </a> 
-     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/dns.png"/> </a> 
+     <a href="https://tailwindcss.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> </a> 
+     <a href="https://tailwindcss.com" target="_blank"> <img width="80" height="80" src="https://img.icons8.com/officel/80/dns.png" alt="dns"/> </a> 
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/console.png"/> </a> 
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/server.png"/> </a> 
 ##
