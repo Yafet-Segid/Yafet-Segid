@@ -12,7 +12,7 @@
 - 👨‍💻 Remote Desktop
 - 🛜 Internet Information Services (IIS)
 - ⚡ Fun fact : I love Chipotle and the gym!
-- 
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
