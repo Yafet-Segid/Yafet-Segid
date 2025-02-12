@@ -32,14 +32,23 @@
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/azure-1.png"/> </a> 
      <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/microsoft.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>  
-     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/mac-os.png"/> </a> 
+     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/mac-logo.png"/> </a> 
+     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/console.png"/> </a> 
+
+   <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/jira.png"/> </a> 
+     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/dns.png"/> </a> 
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/console.png"/> </a> 
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/server.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-        <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a> 
+   
+## 🚀 Languages :
+
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+ <a  href="https://www.salesforce.com/" target="_blank"> <img style="width:50px"  src="https://asset.brandfetch.io/idVE84WdIN/idfpDuA1TN.png"/> </a>
+
+
     
 <!--     <a href="https://typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/></a>  -->
 <!--     <a href="https://visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>  -->
