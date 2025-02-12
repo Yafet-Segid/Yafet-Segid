@@ -10,13 +10,20 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning more about **Front End Developer**
+- 🌱  Microsoft Azure (Virtual Machines/Compute)
+- 👨‍💻 Remote Desktop
+- Internet Information Services (IIS)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)** -->
+<!-- -  Some of my projects are available at **[My Portfolio](https://yafetsegid.com/)** -->
 
 - ⚡ Fun fact : I love Chipotle and the gym!
+
+-  [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 ## 🚀 Languages and Tools:
 
