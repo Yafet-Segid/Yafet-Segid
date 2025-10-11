@@ -8,15 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- ☁️ Azure (Virtual Machines/Compute)
-- 👨‍💻 Remote Desktop
-- 🛜 Internet Information Services (IIS)
-- ⚡ Fun fact : I love Chipotle and the gym!
+- 🛡️ SOC Analyst | Incident Response & Threat Detection
+- 💻 SIEM (Splunk) | Active Directory | PowerShell
+- ☁️ Azure | Endpoint Security | IAM
+- ⚡ Love Chipotle & the gym!
   
-<h2> 👨‍💻 Information Technology  Projects:</h2>
+<!-- <h2> 👨‍💻 Information Technology  Projects:</h2> -->
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Yafet-Segid/osticket-prereq)
  <!-- - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
