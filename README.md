@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yafet</h1>
-<h3 align="center">I'm a passionate about Information Technology.</h3>
+<h3 align="center">I'm a passionate about Cyber Security.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -30,6 +30,7 @@
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/azure-1.png"/> </a> 
+      <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/splunk.png"/> </a> 
      <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/microsoft.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>  
      <a href="https://tailwindcss.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/> </a> 
