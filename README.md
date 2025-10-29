@@ -7,6 +7,7 @@
 <h3 align="center">I'm a passionate about Cyber Security.</h3>
 
 ## 🙋‍♂️ About Me
+🛡️ Cybersecurity Analyst | Incident Response & Threat Detection
 
 🛡️ Cybersecurity Analyst | Incident Response & Threat Detection
 💻 Tools: CyberArk · Entra ID · SailPoint · Okta · Active Directory
