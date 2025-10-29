@@ -8,10 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🛡️ SOC Analyst | Incident Response & Threat Detection
-- 💻 SIEM (Splunk) | Active Directory | PowerShell
-- ☁️ Azure | Endpoint Security | IAM
-- ⚡ Love Chipotle & the gym!
+🛡️ Cybersecurity Analyst | Incident Response & Threat Detection
+💻 Tools: CyberArk · Entra ID · SailPoint · Okta · Active Directory
+🌐 Tech Skills: HTML · CSS · JavaScript · React · SQL
+☁️ Cloud & Security: Azure · Endpoint Security
+⚡ Fun Fact: Fueled by Chipotle & gym sessions 💪
   
 <!-- <h2> 👨‍💻 Information Technology  Projects:</h2> -->
 
