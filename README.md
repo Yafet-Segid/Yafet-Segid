@@ -8,10 +8,10 @@
 
 ## 🙋‍♂️ About Me
 
-🛡️ Cybersecurity Analyst | Incident Response & Threat Detection
-💻 Tools: CyberArk · Entra ID · SailPoint · Okta · Active Directory
-🌐 Tech Skills: HTML · CSS · JavaScript · React · SQL
-☁️ Cloud & Security: Azure · Endpoint Security
+🛡️ Cybersecurity Analyst | Incident Response & Threat Detection <br>
+💻 Tools: CyberArk · Entra ID · SailPoint · Okta · Active Directory <br>
+🌐 Tech Skills: HTML · CSS · JavaScript · React · SQL <br>
+☁️ Cloud & Security: Azure · Endpoint Security <br>
 ⚡ Fun Fact: Fueled by Chipotle & gym sessions 💪
   
 <!-- <h2> 👨‍💻 Information Technology  Projects:</h2> -->
